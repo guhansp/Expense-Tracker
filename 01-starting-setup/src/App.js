@@ -1,9 +1,8 @@
+import Expenses from "./Components/Expenses/Expenses";
+
 function App() {
-  return (
-    <div>
-      <h2>Let's get started!</h2>
-    </div>
-  );
+
+  return(<Expenses></Expenses>);
 }
 
 export default App;
